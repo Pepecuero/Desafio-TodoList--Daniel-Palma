@@ -1,0 +1,37 @@
+.container-fluid {
+    margin-top: 5%;
+    width: 80% !important;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+
+#formulario {
+    display: flex;
+    justify-content: space-between;
+}
+
+#tareaInput {
+    width: 80%;
+}
+
+#tamañoTarea {
+    width: 60%;
+}
+
+#contadores {
+    margin-top: 40px;
+}
+
+span {
+    font-weight: bolder;
+}
+
+#Check {
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 0.5rem
+}
+
+.miniBoton {
+    text-align: center;
+}
